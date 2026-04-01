@@ -33,25 +33,32 @@ I remember when I wanted to learn how to flip a butterfly knife. To do this I fo
 ## Prioritizing Using the Time Management Matrix
 Assignment Week 4, Period 4 (02-03/06-03)
 
-### In order to prioritise, you need to know what your values are. After all, your values determine your prioritization. So this is very personal. For more information on values see ‘Additional text in this week’s PPT. 
+### In order to prioritise, you need to know what your values are. After all, your values determine your prioritization. So this is very personal. 
 
 **Here are 10 lined up. Grade each one of them with either:** Very applicable to me, Applicable to me, Not applicable to me, Not applicable to me at all
 
-- Ambition:
-- Reliability:
-- Expertise:
-- Discipline:
-- Honesty:
-- Health:
-- Independence:
-- Quality:
-- Personal Growth
-- Respect:
+- Ambition: Very applicable to me
+- Reliability: Applicable to me
+- Expertise: Applicable to me
+- Discipline: Applicable to me
+- Honesty: Applicable to me
+- Health: Very applicable to me
+- Independence: Very applicable to me
+- Quality: Applicable to me
+- Personal Growth: Very applicable to me
+- Respect: Applicable to me
 
 ### Perhaps you’re not aware of this, but you have (subconsciously) prioritized in the past. If necessary dig deep and describe a situation where you had to prioritize on important matters. What (values) determined your choices? 
 
+Currently In this period I feel like I was trying to put a lot of effort into my assignments and I was trying to do them as well as possible. I think I do value quality in this sense, I noticed that some of my classmates can just submit something (not going to name drop :P) and be done with it but I feel like I am just not able to do this. Sometimes I even feel like not submitting anything at all if I don't feel like it. It might feel like a good quality but sometimes it feels like a double edged sword because I do spend a significant amount of time on some tasks. This has lately made me push some other things aside like socializing, cooking, and working out which I don't feel that good about. I also like to watch movies and play games sometimes but I feel like I had to completely rule these things out. On the other hand in a search for more time in order to make up for more time spent on assignments I have decided I want to stop watching social media completely which I am quite happy about since it has ben on my todo list for a while. I managed to delete my instagram account, disabled all youtube recommendations (I only see videos I explicitly search for or subscribe to)
+
 ### Looking back: did you subconsciously use the Time Management Matrix in some form? Elaborate
 
+- I have put school work in quadrant 1 - Urgent and Important
+- I have put cooking and working out in quadrant 2 - Not Urgent but Important
+- I have put socializing in quadrant 3 - Urgent but Not Important 
+- I have put watching movies, playing games and social media in quadrant 4 - Not Urgent and Not Important
+  
 ## Feedback
 Assignment Week 6, Period 3 (16-03/20-03)
 
